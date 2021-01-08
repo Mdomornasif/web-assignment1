@@ -1,0 +1,43 @@
+body{
+    font-family: 'Teko', sans-serif;
+}
+h1{
+    font-size: 45px;
+    line-height: 10px;
+}
+h2{
+    font-size: 35px;
+    }
+.color1{
+    color:rgb(231, 103, 57);
+}
+.font1{
+    font-size: 18px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(231, 103, 57);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.img-1{
+    float: left;
+    width: 33.33%;
+}
+.p-p{
+    font-size: 40px;
+    font-weight:bold;
+    text-align:left
+}
+
