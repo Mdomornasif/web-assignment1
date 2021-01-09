@@ -20,9 +20,13 @@ h2{
     margin-left: 5%;
     margin-top: 5%;
     padding-left: 2%;
+    
 }
 .half-width img{
     width: 70%;
+}
+#half-half-width{
+    line-height: 100%;
 }
 .button{
     text-decoration: none;
@@ -38,6 +42,30 @@ h2{
 .p-p{
     font-size: 40px;
     font-weight:bold;
-    text-align:left
+    text-align: left
+}
+.web-letter{
+    font-weight: bold;
+    text-align: center;
+}
+.box{
+    padding:20px;
+    margin: 280px;
+    border-radius: 6px;
+
+    background-image: url(images/Group_33094_1.png);
+    
+    background-position: center;
+    text-align: center;
+}
+.work{
+    float: left;
+    width: 20%;
+    margin: top 10px;
+}
+.chat{
+    float: right;
+    width: 40%;
+    margin: top 30px;
 }
 
